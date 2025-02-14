@@ -1,0 +1,97 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #ffebee;
+  font-family: 'Arial', sans-serif;
+}
+
+.valentine-container {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  color: #d32f2f;
+}
+h2 {
+  color: #d32f2f;
+}
+
+button {
+  background-color: #d32f2f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #b71c1c;
+}
+
+.message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #d32f2f;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #ffebee;
+  font-family: 'Arial', sans-serif;
+}
+
+.valentine-container {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  color: #d32f2f;
+}
+
+button {
+  background-color: #d32f2f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin: 10px; /* Add margin between buttons */
+}
+
+button:hover {
+  background-color: #b71c1c;
+}
+
+.message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #d32f2f;
+}
+
+.drive-button {
+  background-color: #4caf50; /* Green color for the Drive button */
+}
+
+.drive-button:hover {
+  background-color: #388e3c; /* Darker green on hover */
+}
